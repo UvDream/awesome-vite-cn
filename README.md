@@ -291,7 +291,7 @@
 ### Libraries
 
 - [vite-ssr](https://github.com/frandiox/vite-ssr) - 具有类似 SPA 的开发人员体验的简化服务器端渲染. ![react] ![vue3]
-- [vite-plugin-ssr](https://github.com/brillout/vite-plugin-ssr) - 像 Nuxt/Next.js 但作为一个做一件事做它的插件. ![react] ![vue3] ![vue2] ![svelte]
+- [vite-plugin-ssr](https://github.com/brillout/vite-plugin-ssr) - Vite SSR 插件。 简单，成熟，做一件事，做好  ![react] ![vue3] ![vue2] ![svelte]
 
 ### 架构
 
