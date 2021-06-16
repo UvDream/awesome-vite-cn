@@ -1,5 +1,3 @@
-<!--lint disable awesome-heading awesome-github awesome-toc double-link-->
-
 <p align="center">
   <br>
   <img width="400" src="./assets/logo.svg" alt="logo of awesome-vite repository">
@@ -26,7 +24,7 @@
 - [GitHub Repo](https://github.com/vitejs/vite)
 - [发版说明](https://github.com/vitejs/vite/blob/main/packages/vite/CHANGELOG.md)
 - [Vue3 文档](https://v3.cn.vuejs.org/)
-- [Awesome Vue](https://github.com/vuejs/awesome-vue)
+- [Vue 资源](https://github.com/vuejs/awesome-vue)
 
 ## 开始
 
@@ -36,41 +34,41 @@
 
 #### Vue 3
 
-- [Vitesse](https://github.com/antfu/vitesse) - Opinionated starter template.
-- [vite-vue3-tailwind-starter](https://github.com/web2033/vite-vue3-tailwind-starter) - Vue 3, Vue Router and Tailwind CSS.
+- [Vitesse](https://github.com/antfu/vitesse) - 入门模板.
+- [vite-vue3-tailwind-starter](https://github.com/web2033/vite-vue3-tailwind-starter) - Vue 3, Vue Router 和 Tailwind CSS 示例.
 - [vite-ts-tailwind-starter](https://github.com/Uninen/vite-ts-tailwind-starter) - TypeScript, Tailwind CSS, Cypress.io e2e tests + CI.
-- [vite-electron-quick](https://github.com/MangoTsing/vite-electron-quick) - Starter template with Vue 3, TypeScript and Electron 11.
-- [vite-electron-builder](https://github.com/cawa-93/vite-electron-builder/) - Electron apps using Vite for both back and front-end, with automatic releases.
-- [vue-vben-admin](https://github.com/anncwb/vue-vben-admin) - Background management template based on Vue3, Ant-Design-Vue, TypeScript.
-- [electron-vue-next](https://github.com/ci010/electron-vue-next) - Vue 3 and Electron with VS Code debug and GitHub release process out-of-box.
-- [vite-wind](https://github.com/boussadjra/vite-wind) - Boilerplate with Tailwind CSS, TypeScript, css-pro-layout, 9+ components and dark mode support.
-- [vite-electron-ts](https://github.com/cyytemplate/vite-electron-ts) - Electron 12, Vue 3 and TypeScript.
-- [d2-advance](https://github.com/d2-projects/d2-advance) - Boilerplate with Tailwind CSS, TypeScript. Advanced, colorful front-end integration practice.
-- [vue-pure-admin](https://github.com/xiaoxian521/vue-pure-admin) - Background management template based on Vue3, TypeScript, Tailwind CSS, element-plus.
-- [vite-electron-typescript-template](https://github.com/hocili/vite-electron-typescript-template/) - Electron 12 TypeScript Template.
-- [vite-ts-quick](https://github.com/pohunchn/vite-ts-quick) - Vue 3 + Vuex + Vue-router + TypeScript Quick Template.
-- [fast-crud](https://github.com/fast-crud/fast-crud) - Options-oriented crud framework, developing crud as fast as lightning.
-- [vivu](https://github.com/logustra/vivu) - Opinionated scalable vue boilerplate.
-- [electron-vite-quick-start](https://github.com/yingpengsha/electron-vite-quick-start) - Full stack uses Vite to run Electron application, including main process.
+- [vite-electron-quick](https://github.com/MangoTsing/vite-electron-quick) - Vue 3, TypeScript ,Electron 11 的客户端开发模板.
+- [vite-electron-builder](https://github.com/cawa-93/vite-electron-builder/) - Electron apps 使用 Vite 作为前后端, 以及自动发布.
+- [vue-vben-admin](https://github.com/anncwb/vue-vben-admin) - 基于 Vue3、Ant-Design-Vue、TypeScript 的后台管理模板.
+- [electron-vue-next](https://github.com/ci010/electron-vue-next) - Vue 3 和 Electron 与 VS Code 调试和 GitHub 发布过程开箱即用.
+- [vite-wind](https://github.com/boussadjra/vite-wind) - 带有 Tailwind CSS、TypeScript、css-pro-layout、9+ 组件和 dark mode 支持的模板。.
+- [vite-electron-ts](https://github.com/cyytemplate/vite-electron-ts) - Electron 12, Vue 3 以及 TypeScript.
+- [d2-advance](https://github.com/d2-projects/d2-advance) - 带有 Tailwind CSS、TypeScript 的模板.
+- [vue-pure-admin](https://github.com/xiaoxian521/vue-pure-admin) - 基于 Vue3、TypeScript、Tailwind CSS、element-plus 的后台管理模板.
+- [vite-electron-typescript-template](https://github.com/hocili/vite-electron-typescript-template/) - Electron 12 TypeScript 模板.
+- [vite-ts-quick](https://github.com/pohunchn/vite-ts-quick) - Vue 3 + Vuex + Vue-router + TypeScript 快速模板.
+- [fast-crud](https://github.com/fast-crud/fast-crud) - 快速 crud 模板.
+- [vivu](https://github.com/logustra/vivu) - 一个高度自定义且使用 vite 的模板.
+- [electron-vite-quick-start](https://github.com/yingpengsha/electron-vite-quick-start) - 全栈使用 Vite 运行 Electron 应用程序，包括主进程.
 
 #### Vue 2
 
-- [vite-vue2-windicss-starter](https://github.com/lstoeferle/vite-vue2-windicss-starter) - Vue 2, Vue Router, Composition API, VueUse, Windi CSS and TypeScript.
-- [vite-vue2-starter](https://github.com/matt-auckland/vite-vue2-starter) - Barebones Vue 2 starter, similar to Vue-Cli's base template.
-- [admin-base-tmpl](https://github.com/artskin/admin-base-tmpl) - Basic admin template using Vue2, TypeScript, Element UI.
+- [vite-vue2-windicss-starter](https://github.com/lstoeferle/vite-vue2-windicss-starter) - Vue 2, Vue Router, Composition API, VueUse, Windi CSS 以及 TypeScript 的模板.
+- [vite-vue2-starter](https://github.com/matt-auckland/vite-vue2-starter) - Barebones Vue 2 starter，类似于 Vue-Cli 的基础模板.
+- [admin-base-tmpl](https://github.com/artskin/admin-base-tmpl) - 使用 Vue2、TypeScript、Element UI 的基本管理模板.
 
 #### React
 
-- [vite-reactts-electron-starter](https://github.com/lTimeless/vite-reactts-electron-starter) - React, TailwindCSS, TypeScript and Electron.
+- [vite-reactts-electron-starter](https://github.com/lTimeless/vite-reactts-electron-starter) - React, TailwindCSS, TypeScript 以及 Electron.
 - [vite-reactts-chakra-starter](https://github.com/Dieman89/vite-reactts-chakra-starter) - React, Typescript, Chakra, Cypress.
 - [electron-vite-react](https://github.com/twstyled/electron-vite-react) - Electron, TypeScript and Tailwind CSS with [twstyled](https://github.com/twstyled/twstyled).
-- [vite-electron-esbuild-stater](https://github.com/jctaoo/vite-electron-esbuild-starter) - Starter template with React, Typescript, Electron and esbuild.
+- [vite-electron-esbuild-stater](https://github.com/jctaoo/vite-electron-esbuild-starter) - 使用 React, Typescript, Electron 以及 esbuild 的快速开发模板.
 - [Vitamin](https://github.com/wtchnm/Vitamin) - React Typescript, TailwindCSS, SPA + PWA, Cypress and CI.
 - [vite-react-tailwind-rtk](https://github.com/jamosaur/vite-react-tailwind-rtk) - React, Tailwind, Redux Toolkit.
 - [vite-reactts-eslint-prettier](https://github.com/TheSwordBreaker/vite-reactts-eslint-prettier) - React, TypeScript, ESlint, Prettier, Pre-commit.
 - [vite-reactts-antd-starter](https://github.com/asurraa/react-vite2-ts-antd) - React, Typescript, Antd.
 - [react-vite-admin](https://github.com/ychengcloud/react-vite-admin) - React, Recoil, React Query, React Hooks, TypeScript, Axios.
-- [vite-template-react](https://github.com/SafdarJamal/vite-template-react) - A Create React App-like template.
+- [vite-template-react](https://github.com/SafdarJamal/vite-template-react) - 一个快速创建 React App-like 的模板.
 - [vitejs-template-react-rescript](https://github.com/jihchi/vitejs-template-react-rescript) - [Vite official React template](https://github.com/vitejs/vite/tree/main/packages/create-app/template-react) + ReScript.
 
 #### Svelte
@@ -80,73 +78,73 @@
 
 ## 插件
 
-### Framework-agnostic Plugins
+### 与框架无关的插件
 
 #### Integrations
 
-- [vite-plugin-pwa](https://github.com/antfu/vite-plugin-pwa) - Zero-config PWA.
-- [vite-plugin-purge-icons](https://github.com/antfu/purge-icons/tree/main/packages/vite-plugin-purge-icons) - Bundle icons on demand by PurgeIcons.
-- [vite-eslint](https://github.com/ehutch79/vite-eslint) - Allow ESLint to work with bundling and dev server.
-- [vite-plugin-windicss](https://github.com/windicss/vite-plugin-windicss) - Windi CSS integration.
-- [vite-plugin-node](https://github.com/axe-me/vite-plugin-node) - Integration with Node.js backend servers.
-- [vite-plugin-cesium](https://github.com/nshen/vite-plugin-cesium) - Integration with Cesium library.
-- [vite-plugin-mpa](https://github.com/IndexXuan/vite-plugin-mpa) - Out-of-box multi-page application (MPA) integration.
-- [vite-plugin-svg-icons](https://github.com/anncwb/vite-plugin-svg-icons) - Fast creating SVG sprites.
+- [vite-plugin-pwa](https://github.com/antfu/vite-plugin-pwa) - 零配置 PWA.
+- [vite-plugin-purge-icons](https://github.com/antfu/purge-icons/tree/main/packages/vite-plugin-purge-icons) - PurgeIcons 按需捆绑图标.
+- [vite-eslint](https://github.com/ehutch79/vite-eslint) - eslint.
+- [vite-plugin-windicss](https://github.com/windicss/vite-plugin-windicss) - Windi CSS 集成.
+- [vite-plugin-node](https://github.com/axe-me/vite-plugin-node) - 与 Node.js 后端服务器集成.
+- [vite-plugin-cesium](https://github.com/nshen/vite-plugin-cesium) - Cesium library 集成.
+- [vite-plugin-mpa](https://github.com/IndexXuan/vite-plugin-mpa) - 开箱即用的多页应用程序 (MPA) 集成.
+- [vite-plugin-svg-icons](https://github.com/anncwb/vite-plugin-svg-icons) - 快速创建 SVG 精灵.
 - [vite-react-jsx](https://github.com/alloc/vite-react-jsx) - React 17's automatic JSX runtime for your entire bundle.
-- [vite-plugin-spritesmith](https://github.com/evont/vite-plugin-spritesmith) - Converts a set of images into a spritesheet and SASS/LESS/Stylus mixins.
+- [vite-plugin-spritesmith](https://github.com/evont/vite-plugin-spritesmith) - 将一组图像转换为 spritesheet 和 SASS/LESS/Stylus mixin.
 
 #### Loaders
 
-- [vite-plugin-rsw](https://github.com/lencx/vite-plugin-rsw) - Load rust-compiled (wasm-pack) WebAssembly packages.
-- [vite-plugin-fonts](https://github.com/stafyniaksacha/vite-plugin-fonts) - Webfont loader.
-- [vite-imagetools](https://github.com/JonasKruckenberg/vite-imagetools) - Load and transform images using url query parameters.
-- [vite-plugin-radar](https://github.com/stafyniaksacha/vite-plugin-radar) - All in one analytics loader (with 7+ providers supported).
+- [vite-plugin-rsw](https://github.com/lencx/vite-plugin-rsw) - 加载 rust-compiled (wasm-pack) WebAssembly 包.
+- [vite-plugin-fonts](https://github.com/stafyniaksacha/vite-plugin-fonts) - 网页字体 loader.
+- [vite-imagetools](https://github.com/JonasKruckenberg/vite-imagetools) - 图片处理 loader.
+- [vite-plugin-radar](https://github.com/stafyniaksacha/vite-plugin-radar) - 多合一 loader (with 7+ providers supported).
 - [vite-plugin-virtual-plain-text](https://github.com/zheeeng/vite-plugin-virtual-plain-text) - A Vite plugin loads file as plain text from the virtual assets workspace.
 
 #### Bundling
 
-- [vite-plugin-compress](https://github.com/alloc/vite-plugin-compress) - Compress your bundle + assets.
-- [vite-plugin-imagemin](https://github.com/anncwb/vite-plugin-imagemin) - Compress image assets.
-- [vite-plugin-importer](https://github.com/ajuner/vite-plugin-importer) - Integration for babel-plugin-import.
-- [vite-plugin-banner](https://github.com/chengpeiquan/vite-plugin-banner) - Adds a banner to the top of each generated chunk.
-- [vite-plugin-compression](https://github.com/anncwb/vite-plugin-compression) - Use gzip or brotli to compress resources.
-- [rollup-plugin-critical](https://github.com/nystudio107/rollup-plugin-critical) - Vite.js & Rollup plugin for generating critical CSS.
+- [vite-plugin-compress](https://github.com/alloc/vite-plugin-compress) - 压缩静态文件.
+- [vite-plugin-imagemin](https://github.com/anncwb/vite-plugin-imagemin) - 压缩图片资源.
+- [vite-plugin-importer](https://github.com/ajuner/vite-plugin-importer) - 集成 babel-plugin-import.
+- [vite-plugin-banner](https://github.com/chengpeiquan/vite-plugin-banner) - 为每个 chunk 文件头部添加 banner 注释.
+- [vite-plugin-compression](https://github.com/anncwb/vite-plugin-compression) - 使用 `gzip` 或者 `brotli` 来压缩资源.
+- [rollup-plugin-critical](https://github.com/nystudio107/rollup-plugin-critical) - Vite.js & Rollup 插件，用于生成关键的 CSS.
 
 #### Transformers
 
-- [vite-plugin-html](https://github.com/anncwb/vite-plugin-html) - Plugin to minimize and use ejs template syntax in `index.html`.
-- [vite-plugin-ts-nameof](https://github.com/Shinigami92/vite-plugin-ts-nameof) - Ability to resolve [nameof](https://github.com/dsherret/ts-nameof) in TypeScript.
-- [vite-plugin-handlebars](https://github.com/alexlafroscia/vite-plugin-handlebars) - Process HTML files with Handlebars.
-- [vite-plugin-html-config](https://github.com/ahwgs/vite-plugin-html-config) - HTML tag configuration, such as script link style meta favicon and more.
-- [vite-plugin-html-template](https://github.com/IndexXuan/vite-plugin-html-template) - HTML template for vite app, like html-webpack-plugin for webpack.
-- [vite-plugin-md2vue](https://github.com/WangXueZhi/vite-plugin-md2vue) - Transform markdown module to vue component.
-- [vite-plugin-virtual-html](https://github.com/Windson1806/vite-plugin-virtual-html) - Make Vite MPA consistent with @vue/cli.
+- [vite-plugin-html](https://github.com/anncwb/vite-plugin-html) - 一个针对 index.html，提供精简和基于 ejs 模板功能的 Vite 插件.
+- [vite-plugin-ts-nameof](https://github.com/Shinigami92/vite-plugin-ts-nameof) - 让 Vite 能够在 TypeScript 中解析“nameof”调用.
+- [vite-plugin-handlebars](https://github.com/alexlafroscia/vite-plugin-handlebars) - 让 vite 支持 Handlebars.
+- [vite-plugin-html-config](https://github.com/ahwgs/vite-plugin-html-config) - 让 HTML 添加额外配置.
+- [vite-plugin-html-template](https://github.com/IndexXuan/vite-plugin-html-template) - vite 应用程序的 HTML 模板，如 webpack 的 html-webpack-plugin.
+- [vite-plugin-md2vue](https://github.com/WangXueZhi/vite-plugin-md2vue) - 将 markdown 模块转换为 vue 组件.
+- [vite-plugin-virtual-html](https://github.com/Windson1806/vite-plugin-virtual-html) - 使 Vite MPA 与 @vue/cli 一致.
 - [vite-plugin-posthtml](https://github.com/chromeos/static-site-scaffold-modules/tree/main/modules/vite-plugin-posthtml) - Vite plugin to run [PostHTML](https://github.com/posthtml/posthtml). Currently only runs on served/built HTML files `index.html`.
-- [vite-plugin-plain-text](https://github.com/zheeeng/vite-plugin-plain-text) - A Vite plugin transforms the rule-matched file as plain text.
+- [vite-plugin-plain-text](https://github.com/zheeeng/vite-plugin-plain-text) - 一个 Vite 插件将匹配规则的文件转换为纯文本.
 
 #### Helpers
 
-- [vite-tsconfig-paths](https://github.com/aleclarson/vite-tsconfig-paths) - Support for TypeScript's path mapping.
-- [vite-plugin-faker](https://github.com/vue-toys/vite-plugin-faker) - Use TypeScript compiler to generate mock data.
-- [vite-plugin-style-import](https://github.com/anncwb/vite-plugin-style-import) - Introduces component library styles on demand.
-- [vite-plugin-mock](https://github.com/anncwb/vite-plugin-mock) - Mock plugin for development and production.
-- [vite-plugin-mocker](https://github.com/minjs1cn/vite-plugin-mocker) - Mocker server.
-- [vite-plugin-theme](https://github.com/anncwb/vite-plugin-theme) - Dynamically changing the theme color.
-- [vite-plugin-test](https://github.com/aelbore/vite-plugin-test) - Headless testing your component.
-- [vite-aliases](https://github.com/subwaytime/vite-aliases) - Alias auto-generation based on project structure.
-- [vite-plugin-import](https://github.com/meowtec/vite-plugin-import) - Modular import plugin for Vite.
-- [vite-plugin-imp](https://github.com/onebay/vite-plugin-imp) - Import library component styles on demand, make your app slimmer.
-- [view-launcher](https://github.com/view-launcher/view-launcher) - Inspect Vue components and jump to source code directly from browsers.
-- [vite-plugin-mkcert](https://github.com/liuweiGL/vite-plugin-mkcert) - Provide certificates for vite's https dev service.
-- [vite-plugin-vconsole](https://github.com/vadxq/vite-plugin-vconsole) - Help developers use vconsole to facilitate mobile development and debugging.
-- [vite-plugin-cdn-import](https://github.com/MMF-FE/vite-plugin-cdn-import) - Import packages from CDN.
-- [vite-dts](https://github.com/alloc/vite-dts) - Blazing fast plugin that generates `.d.ts` modules for libraries.
+- [vite-tsconfig-paths](https://github.com/aleclarson/vite-tsconfig-paths) - 支持 TypeScript 的路径映射.
+- [vite-plugin-faker](https://github.com/vue-toys/vite-plugin-faker) - 使用 TypeScript 编译器生成 mock 数据.
+- [vite-plugin-style-import](https://github.com/anncwb/vite-plugin-style-import) - 按需引入组件库样式.
+- [vite-plugin-mock](https://github.com/anncwb/vite-plugin-mock) - 一个 vite mockjs 插件,提供本地和生产模拟服.
+- [vite-plugin-mocker](https://github.com/minjs1cn/vite-plugin-mocker) - 更加方便的模拟本地 mock 服务.
+- [vite-plugin-theme](https://github.com/anncwb/vite-plugin-theme) - 用于动态更改界面主题色的 vite 插件.
+- [vite-plugin-test](https://github.com/aelbore/vite-plugin-test) - 一个 mocha 和 puppeteervite 插件.
+- [vite-aliases](https://github.com/subwaytime/vite-aliases) - 自动生成别名.
+- [vite-plugin-import](https://github.com/meowtec/vite-plugin-import) - Vite 的模块化导入插件.
+- [vite-plugin-imp](https://github.com/onebay/vite-plugin-imp) - 按需导入库组件样式，让你的 app 更小.
+- [view-launcher](https://github.com/view-launcher/view-launcher) - 在浏览器调试,直接跳转 vue 组件源码.
+- [vite-plugin-mkcert](https://github.com/liuweiGL/vite-plugin-mkcert) - 为 vite 的 https 开发服务提供证书.
+- [vite-plugin-vconsole](https://github.com/vadxq/vite-plugin-vconsole) - 帮助开发者使用 vconsole 方便移动开发和调试.
+- [vite-plugin-cdn-import](https://github.com/MMF-FE/vite-plugin-cdn-import) - 从 CDN 导入包.
+- [vite-dts](https://github.com/alloc/vite-dts) - 为库生成`.d.ts` 模块的快速插件.
 
 #### Testing
 
 - [mocha-vite-puppeteer](https://github.com/larsthorup/mocha-vite-puppeteer) - Run your Mocha front-end tests with the Vite bundler and the Puppeteer browser launcher.
-- [vite-plugin-test](https://github.com/aelbore/vite-plugin-test) - Vite plugin with mocha and puppeteer.
-- [vite-web-test-runner-plugin](https://github.com/betaboon/vite-web-test-runner-plugin) - A @web/test-runner plugin to test Vite-powered projects.
+- [vite-plugin-test](https://github.com/aelbore/vite-plugin-test) - 一个 mocha 和 puppeteer vite 插件.
+- [vite-web-test-runner-plugin](https://github.com/betaboon/vite-web-test-runner-plugin) - 一个用于测试 Vite 驱动项目的 @web/test-runner 插件.
 
 <hr>
 
@@ -156,9 +154,9 @@
 [v2]: https://img.shields.io/badge/-v2-42b883
 [v3]: https://img.shields.io/badge/-v3-35495e
 
-In this section, we use badges to indicate the targeted Vue version for each plugin.
+在这里面会用徽章注明每个插件适用范围.
 
-![v2] for Vue 2 only, ![v3] for Vue 3 only, and ![v23] for plugins that compatible with both versions.
+![v2] 仅支持 vue2, ![v3] 仅支持 vue2, ![v23] 兼容 vue2 以及 vue3.
 
 > 💡 SSR frameworks are listed at [SSR - Frameworks](#ssr).
 
@@ -166,38 +164,38 @@ In this section, we use badges to indicate the targeted Vue version for each plu
 
 #### Integrations
 
-- ![v3] [@vitejs/plugin-vue](https://github.com/vitejs/vite/tree/main/packages/plugin-vue) - Official Vue 3 support.
-- ![v2] [vite-plugin-vue2](https://github.com/underfin/vite-plugin-vue2) - Vue 2 integration.
+- ![v3] [@vitejs/plugin-vue](https://github.com/vitejs/vite/tree/main/packages/plugin-vue) - vue3 官网插件.
+- ![v2] [vite-plugin-vue2](https://github.com/underfin/vite-plugin-vue2) - vue2 插件.
 
 #### Routing
 
-- ![v23] [vite-plugin-voie](https://github.com/vamplate/vite-plugin-voie) - File system based routing.
-- ![v23] [vite-plugin-pages](https://github.com/hannoeru/vite-plugin-pages) - File system based route generator.
+- ![v23] [vite-plugin-voie](https://github.com/vamplate/vite-plugin-voie) - 基于文件系统的路由就是文件路径自动生成路由.
+- ![v23] [vite-plugin-pages](https://github.com/hannoeru/vite-plugin-pages) - 基于文件系统的路由就是文件路径自动生成路由.
 
 #### Loaders
 
-- ![v23] [vite-plugin-md](https://github.com/antfu/vite-plugin-md) - Markdown as Vue components / Vue components in Markdown.
-- ![v23] [vite-plugin-icons](https://github.com/antfu/vite-plugin-icons) - Access thousands of icons as Vue components.
-- ![v3] [vite-plugin-vuedoc](https://github.com/JasKang/vite-plugin-vuedoc) - Markdown Code block as Vue Preview components.
-- ![v3] [vite-svg-loader](https://github.com/jpkleemans/vite-svg-loader) - Load SVG files as Vue components.
+- ![v23] [vite-plugin-md](https://github.com/antfu/vite-plugin-md) - 解析markdown组件.
+- ![v23] [vite-plugin-icons](https://github.com/antfu/vite-plugin-icons) - 解析icon为vue组件.
+- ![v3] [vite-plugin-vuedoc](https://github.com/JasKang/vite-plugin-vuedoc) - 解析markdown中特定代码块为vue组件.
+- ![v3] [vite-svg-loader](https://github.com/jpkleemans/vite-svg-loader) - 加载 SVG 文件作为 Vue 组件.
 
 #### SSG
 
-- ![v3] [vite-ssg](https://github.com/antfu/vite-ssg) - Server-side generation.
+- ![v3] [vite-ssg](https://github.com/antfu/vite-ssg) - 服务端运行.
 
 #### Ecosystem
 
-- ![v3] [vite-plugin-vue-i18n](https://github.com/intlify/vite-plugin-vue-i18n) - Integration for Vue I18n.
-- ![v3] [vite-plugin-i18n-resources](https://github.com/fvena/vite-plugin-i18n-resources) - Load i18n translation message files.
+- ![v3] [vite-plugin-vue-i18n](https://github.com/intlify/vite-plugin-vue-i18n) -Vue I18n 的集成.
+- ![v3] [vite-plugin-i18n-resources](https://github.com/fvena/vite-plugin-i18n-resources) -加载 i18n 翻译消息文件.
 
 #### Helpers
 
-- ![v23] [vite-plugin-components](https://github.com/antfu/vite-plugin-components) - On-demand components auto-importing.
-- ![v3] [vite-plugin-vue-gql](https://github.com/wheatjs/vite-plugin-vue-gql) - GraphQL Tags for your Vue SFC.
+- ![v23] [vite-plugin-components](https://github.com/antfu/vite-plugin-components) - 组件按需自动导入.
+- ![v3] [vite-plugin-vue-gql](https://github.com/wheatjs/vite-plugin-vue-gql) - Vue SFC 的 GraphQL 标签.
 
 #### Bundling
 
-- ![v3] [vite-plugin-multi-device](https://github.com/SasanFarrokh/vite-plugin-multi-device) - Outputs for different devices.
+- ![v3] [vite-plugin-multi-device](https://github.com/SasanFarrokh/vite-plugin-multi-device) - 不同设备的输出.
 
 <!--lint enable awesome-list-item-->
 
@@ -215,17 +213,17 @@ In this section, we use badges to indicate the targeted Vue version for each plu
 
 #### Loaders
 
-- [vite-plugin-svgr](https://github.com/pd4d10/vite-plugin-svgr) - Transform SVGs into React components.
-- [vite-plugin-mdx](https://github.com/brillout/vite-plugin-mdx) - Use MDX for your Vite app, with support for MDX v1, MDX v2, HMR, and SSR.
+- [vite-plugin-svgr](https://github.com/pd4d10/vite-plugin-svgr) - 将 SVG 转换为 React 组件.
+- [vite-plugin-mdx](https://github.com/brillout/vite-plugin-mdx) - 将 MDX 用于您的 Vite 应用程序，支持 MDX v1、MDX v2、HMR 和 SSR.
 
 #### Transformers
 
-- [vite-plugin-twstyled](https://github.com/twstyled/twstyled/tree/main/packages/vite-plugin-twstyled) - Plugin to compile Tailwind CSS with JSX and CSS-in-JS support.
+- [vite-plugin-twstyled](https://github.com/twstyled/twstyled/tree/main/packages/vite-plugin-twstyled) - 使用 JSX 和 CSS-in-JS 支持编译 Tailwind CSS 的插件.
 
 #### Framework
 
-- [vite-plugin-react-pages](https://github.com/vitejs/vite-plugin-react-pages) - A Vite framework for building React app.
-- [@vitjs/vit](https://github.com/vitjs/vit) - React application framework inspired by UmiJS.
+- [vite-plugin-react-pages](https://github.com/vitejs/vite-plugin-react-pages) - 用于构建 React 应用程序的 Vite 框架.
+- [@vitjs/vit](https://github.com/vitjs/vit) - 受 UmiJS 启发的 React 应用程序框架.
 
 > 💡 SSR frameworks are listed at [SSR - Frameworks](#ssr).
 
@@ -235,50 +233,51 @@ In this section, we use badges to indicate the targeted Vue version for each plu
 
 #### Integrations
 
-- [vite-plugin-solid](https://github.com/amoutonbrady/vite-plugin-solid) - Provides JSX transformation for Solid.
+- [vite-plugin-solid](https://github.com/amoutonbrady/vite-plugin-solid) - 为 Solid 提供 JSX 转换.
 
 <hr>
 
-### Rollup Plugins
+### Rollup 插件
 
-- [Vite Rollup Plugins](https://vite-rollup-plugins.patak.dev/) - Compatibility list for official rollup plugins.
+- [Vite Rollup Plugins](https://vite-rollup-plugins.patak.dev/) - 官方汇总插件的兼容性列表.
 
 #### Included in Vite
 
-- [@rollup/plugin-alias](https://github.com/rollup/plugins/blob/master/packages/alias) - Define and resolve aliases for bundle dependencies.
-- [@rollup/plugin-commonjs](https://github.com/rollup/plugins/blob/master/packages/commonjs) - Convert CommonJS modules to ES6.
-- [@rollup/plugin-dynamic-import-vars](https://github.com/rollup/plugins/blob/master/packages/dynamic-import-vars) - Resolving dynamic imports that contain variables.
-- [@rollup/plugin-json](https://github.com/rollup/plugins/blob/master/packages/json) - Convert `.json` files to ES6 modules.
+- [@rollup/plugin-alias](https://github.com/rollup/plugins/blob/master/packages/alias) - 定义和解析包依赖项的别名.
+- [@rollup/plugin-commonjs](https://github.com/rollup/plugins/blob/master/packages/commonjs) - 将 CommonJS 模块转换为 ES6.
+- [@rollup/plugin-dynamic-import-vars](https://github.com/rollup/plugins/blob/master/packages/dynamic-import-vars) - 解析包含变量的动态导入.
+- [@rollup/plugin-json](https://github.com/rollup/plugins/blob/master/packages/json) - 将 `.json` 文件转换为 ES6 模块.
 
 #### Covered by default in Vite
 
-- [@rollup/plugin-babel](https://github.com/rollup/plugins/tree/master/packages/babel) - Compile your files with Babel.
-- [@rollup/plugin-buble](https://github.com/rollup/plugins/tree/master/packages/buble) - Compile ES2015 with buble.
-- [@rollup/plugin-data-uri](https://github.com/rollup/plugins/tree/master/packages/data-uri) - Import modules from Data URIs.
-- [@rollup/plugin-html](https://github.com/rollup/plugins/tree/master/packages/html) - Create HTML files to serve Rollup bundles.
-- [@rollup/plugin-node-resolve](https://github.com/rollup/plugins/tree/master/packages/node-resolve) - Locate and bundle third-party dependencies in node_modules.
-- [@rollup/plugin-sucrase](https://github.com/rollup/plugins/tree/master/packages/sucrase) - Compile TypeScript, Flow, JSX, etc with Sucrase.
-- [@rollup/plugin-typescript](https://github.com/rollup/plugins/tree/master/packages/typescript) - Integration between Rollup and Typescript.
-- [@rollup/plugin-wasm](https://github.com/rollup/plugins/tree/master/packages/wasm) - Import WebAssembly code with Rollup.
-- [@rollup/plugin-url](https://github.com/rollup/plugins/tree/master/packages/url) - Import files as data-URIs or ES Modules.
+- [@rollup/plugin-babel](https://github.com/rollup/plugins/tree/master/packages/babel) - 用 Babel 编译你的文件.
+- [@rollup/plugin-buble](https://github.com/rollup/plugins/tree/master/packages/buble) - 用buble编译ES2015.
+- [@rollup/plugin-data-uri](https://github.com/rollup/plugins/tree/master/packages/data-uri) - 从数据 URI 导入模块.
+- [@rollup/plugin-html](https://github.com/rollup/plugins/tree/master/packages/html) - 创建 HTML 文件以提供 Rollup 包.
+- [@rollup/plugin-node-resolve](https://github.com/rollup/plugins/tree/master/packages/node-resolve) -在 node_modules 中定位并捆绑第三方依赖.
+- [@rollup/plugin-sucrase](https://github.com/rollup/plugins/tree/master/packages/sucrase) -使用 Sucrase 编译 TypeScript、Flow、JSX 等.
+- [@rollup/plugin-typescript](https://github.com/rollup/plugins/tree/master/packages/typescript) - Rollup 和 Typescript 之间的集成.
+- [@rollup/plugin-wasm](https://github.com/rollup/plugins/tree/master/packages/wasm) -使用 Rollup 导入 WebAssembly 代码.
+- [@rollup/plugin-url](https://github.com/rollup/plugins/tree/master/packages/url) - 将文件作为数据 URI 或 ES 模块导入.
 
-#### Compatible with Vite
+#### 与 Vite 兼容
 
-- [@rollup/plugin-beep](https://github.com/rollup/plugins/tree/master/packages/beep) - System beeps on errors and warnings.
-- [@rollup/plugin-dsv](https://github.com/rollup/plugins/blob/master/packages/dsv) - Convert `.csv` and `.tsv` files into JavaScript modules with d3-dsv.
-- [@rollup/plugin-eslint](https://github.com/rollup/plugins/blob/master/packages/eslint) - Verify entry point and all imported files with ESLint.
-- [@rollup/plugin-graphql](https://github.com/rollup/plugins/blob/master/packages/graphql) - Convert .gql/.graphql files to ES6 modules.
-- [@rollup/plugin-image](https://github.com/rollup/plugins/blob/master/packages/image) - Import JPG, PNG, GIF, SVG, and WebP files (needs `enforce: 'pre'`).
-- [@rollup/plugin-inject](https://github.com/rollup/plugins/blob/master/packages/inject) - Scan modules for global variables and injects import statements where necessary.
-- [@rollup/plugin-legacy](https://github.com/rollup/plugins/tree/master/packages/legacy) - Add export declarations to legacy non-module scripts.
-- [@rollup/plugin-replace](https://github.com/rollup/plugins/tree/master/packages/replace) - Replace strings in files while bundling.
-- [@rollup/plugin-strip](https://github.com/rollup/plugins/tree/master/packages/strip) - Remove debugger statements and functions from your code.
-- [@rollup/plugin-virtual](https://github.com/rollup/plugins/blob/master/packages/virtual) - A Rollup plugin that loads virtual modules from memory.
-- [@rollup/plugin-yaml](https://github.com/rollup/plugins/blob/master/packages/yaml) - Convert YAML files to ES6 modules.
+- [@rollup/plugin-beep](https://github.com/rollup/plugins/tree/master/packages/beep) - 系统发出错误和警告提示.
+- [@rollup/plugin-dsv](https://github.com/rollup/plugins/blob/master/packages/dsv) - 使用 d3-dsv 将 `.csv` 和 `.tsv` 文件转换为 JavaScript 模块.
+- [@rollup/plugin-eslint](https://github.com/rollup/plugins/blob/master/packages/eslint) - 使用 ESLint 验证入口点和所有导入的文件.
+- [@rollup/plugin-graphql](https://github.com/rollup/plugins/blob/master/packages/graphql) - 将 .gql/.graphql 文件转换为 ES6 模块.
+- [@rollup/plugin-image](https://github.com/rollup/plugins/blob/master/packages/image) - 导入 JPG、PNG、GIF、SVG 和 WebP 文件（需要 `enforce: 'pre'`）。.
+- [@rollup/plugin-inject](https://github.com/rollup/plugins/blob/master/packages/inject) - 扫描全局变量的模块并在必要时注入导入语句.
+- [@rollup/plugin-legacy](https://github.com/rollup/plugins/tree/master/packages/legacy) - 向遗留的非模块脚本添加导出声明.
+- [@rollup/plugin-replace](https://github.com/rollup/plugins/tree/master/packages/replace) - 捆绑时替换文件中的字符串.
+- [@rollup/plugin-strip](https://github.com/rollup/plugins/tree/master/packages/strip) - 从代码中删除调试器语句和函数.
+- [@rollup/plugin-virtual](https://github.com/rollup/plugins/blob/master/packages/virtual) - 从内存加载虚拟模块的 Rollup 插件.
+- [@rollup/plugin-yaml](https://github.com/rollup/plugins/blob/master/packages/yaml) - 将 YAML 文件转换为 ES6 模块.
 
-#### Community
+#### 社区
 
 - Check the [Awesome Rollup list](https://github.com/rollup/awesome) for community-maintained rollup plugins, and refer to the Vite docs section about [rollup plugin compatibility](https://vitejs.dev/guide/api-plugin.html#rollup-plugin-compatiblity).
+- 查看社区维护的汇总插件的 [Awesome Rollup list](https://github.com/rollup/awesome) 列表，并参考 Vite 文档部分关于[rollup plugin compatibility](https://vitejs.dev/guide/api-plugin.html#rollup-plugin-compatiblity)
 
 ## SSR(服务端渲染)
 
@@ -291,16 +290,16 @@ In this section, we use badges to indicate the targeted Vue version for each plu
 
 ### Libraries
 
-- [vite-ssr](https://github.com/frandiox/vite-ssr) - Simplified Server Side Rendering with an SPA-like developer experience. ![react] ![vue3]
-- [vite-plugin-ssr](https://github.com/brillout/vite-plugin-ssr) - Like Nuxt/Next.js but as a do-one-thing-do-it-well plugin. ![react] ![vue3] ![vue2] ![svelte]
+- [vite-ssr](https://github.com/frandiox/vite-ssr) - 具有类似 SPA 的开发人员体验的简化服务器端渲染. ![react] ![vue3]
+- [vite-plugin-ssr](https://github.com/brillout/vite-plugin-ssr) - 像 Nuxt/Next.js 但作为一个做一件事做它的插件. ![react] ![vue3] ![vue2] ![svelte]
 
-### Frameworks
+### 架构
 
-- [vitedge](https://github.com/frandiox/vitedge) - Edge-side rendering with fullstack utilities. ![react] ![vue3]
+- [vitedge](https://github.com/frandiox/vitedge) - 使用全栈实用程序进行边缘渲染. ![react] ![vue3]
 
 <!--lint enable awesome-list-item-->
 
-## Integrations with Backends
+## 与后端的集成
 
 ### Ruby on Rails
 
@@ -316,33 +315,33 @@ In this section, we use badges to indicate the targeted Vue version for each plu
 
 - [Craft Vite](https://github.com/nystudio107/craft-vite) - Plugin for integration with Craft CMS.
 
-## Migrations
+## 迁移
 
 ### Vue CLI
 
-- [vue-cli-plugin-vite](https://github.com/IndexXuan/vue-cli-plugin-vite) - Use Vite on Vue CLI with minimize codebase modifications.
-- [wp2vite](https://github.com/tnfe/wp2vite) - A front-end project automatic conversion tool, make your Webpack projects support Vite.
+- [vue-cli-plugin-vite](https://github.com/IndexXuan/vue-cli-plugin-vite) - 在 Vue CLI 上使用 Vite，最大限度地减少代码库修改.
+- [wp2vite](https://github.com/tnfe/wp2vite) - 一个前端项目自动转换工具，让你的Webpack项目支持Vite.
 
-## Projects Using Vite.js
+## 哪些项目使用了 Vite.js
 
-### Open Source
+### 开源
 
-- [VitePress](https://github.com/vuejs/vitepress) - Static Site Generator powered by Vite and Vue.
-- [TroisJS](https://github.com/troisjs/trois) - Three.js integration with Vite and Vue 3.
-- [Slidev](https://github.com/slidevjs/slidev) - Presentation Slides for Developers.
+- [VitePress](https://github.com/vuejs/vitepress) - 由 Vite 和 Vue 提供支持的静态站点生成器.
+- [TroisJS](https://github.com/troisjs/trois) - Three.js 与 Vite 和 Vue 3 的集成.
+- [Slidev](https://github.com/slidevjs/slidev) - 面向开发人员的演示幻灯片.
 
-### Apps/Websites
+### Apps/网站
 
-- [Icônes](https://github.com/antfu/icones) - Icon explorer with instant search.
+- [Icônes](https://github.com/antfu/icones) - 具有即时搜索功能的图标浏览器.
 - [Awesome CN Café](https://github.com/antfu/awesome-cn-cafe-web) - Web application for Awesome CN Café.
-- [Todo Example](https://github.com/beary/vite-example) - Todo app with routing and state management.
-- [Tailwind Pre-Processor](https://github.com/xiaoluoboding/tailwind-pre-processor) - An implementation of Tailwind CSS using Less / Stylus / Sass / SCSS.
-- [npmview](https://github.com/pd4d10/npmview) - A web application to view npm package files.
-- [Layoutit Grid](https://github.com/Leniolabs/layoutit-grid) - Interactive CSS Grid layout generator.
+- [Todo Example](https://github.com/beary/vite-example) - 具有路由和状态管理功能的 Todo 应用.
+- [Tailwind Pre-Processor](https://github.com/xiaoluoboding/tailwind-pre-processor) - 使用 Less / Stylus / Sass / SCSS 实现 Tailwind CSS.
+- [npmview](https://github.com/pd4d10/npmview) - 查看 npm 包文件的 Web 应用程序.
+- [Layoutit Grid](https://github.com/Leniolabs/layoutit-grid) - 交互式 CSS 网格布局生成器.
 - [TypGame](https://github.com/rupamkairi/TypGame) - Test your typing performance.
-- [aitrack.work](https://aitrack.work) - A task-based time tracker for everyday use.
-- [macOS Web](https://github.com/PuruVJ/macos-web/) - macOS Desktop experience for Web.
-- [vue3-realworld-example-app](https://github.com/mutoe/vue3-realworld-example-app) - Realworld app implementation using Vue 3 + TypeScript + Composition API.
-- [vue3-ssr-realworld-example-app](https://github.com/levchak0910/vue3-ssr-realworld-example-app) - Realworld app implementation using Vue 3 with SSR.
+- [aitrack.work](https://aitrack.work) - 日常使用的基于任务的时间跟踪器.
+- [macOS Web](https://github.com/PuruVJ/macos-web/) - 适用于 Web 的 macOS 桌面体验.
+- [vue3-realworld-example-app](https://github.com/mutoe/vue3-realworld-example-app) - 使用 Vue 3 + TypeScript + Composition API 实现的应用程序。.
+- [vue3-ssr-realworld-example-app](https://github.com/levchak0910/vue3-ssr-realworld-example-app) - 使用 Vue 3 和 SSR 实现的应用程序.
 - [react-device-frameset](https://github.com/zheeeng/react-device-frameset) - This is yet another device frameset component for React.
-- [vite-vue3-lowcode](https://github.com/buqiyuan/vite-vue3-lowcode) - Low code platform using Vue 3 + TypeScript + Composition API.
+- [vite-vue3-lowcode](https://github.com/buqiyuan/vite-vue3-lowcode) - 使用 Vue 3 + TypeScript + Composition API 的低代码平台.
