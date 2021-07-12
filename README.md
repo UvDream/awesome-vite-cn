@@ -35,6 +35,7 @@
 #### Vue 3
 
 - [Vitesse](https://github.com/antfu/vitesse) - 入门模板.
+- [electron-vue-vite-webpack](https://github.com/caoxiemeihao/electron-vue-vite-webpack) - Electron、vue3、vite2、webpack5、ant-design-vue2 整合
 - [vite-vue3-tailwind-starter](https://github.com/web2033/vite-vue3-tailwind-starter) - Vue 3, Vue Router 和 Tailwind CSS 示例.
 - [vite-ts-tailwind-starter](https://github.com/Uninen/vite-ts-tailwind-starter) - TypeScript, Tailwind CSS, Cypress.io e2e tests + CI.
 - [vite-electron-quick](https://github.com/MangoTsing/vite-electron-quick) - Vue 3, TypeScript ,Electron 11 的客户端开发模板.
@@ -174,9 +175,9 @@
 
 #### Loaders
 
-- ![v23] [vite-plugin-md](https://github.com/antfu/vite-plugin-md) - 解析markdown组件.
-- ![v23] [vite-plugin-icons](https://github.com/antfu/vite-plugin-icons) - 解析icon为vue组件.
-- ![v3] [vite-plugin-vuedoc](https://github.com/JasKang/vite-plugin-vuedoc) - 解析markdown中特定代码块为vue组件.
+- ![v23] [vite-plugin-md](https://github.com/antfu/vite-plugin-md) - 解析 markdown 组件.
+- ![v23] [vite-plugin-icons](https://github.com/antfu/vite-plugin-icons) - 解析 icon 为 vue 组件.
+- ![v3] [vite-plugin-vuedoc](https://github.com/JasKang/vite-plugin-vuedoc) - 解析 markdown 中特定代码块为 vue 组件.
 - ![v3] [vite-svg-loader](https://github.com/jpkleemans/vite-svg-loader) - 加载 SVG 文件作为 Vue 组件.
 
 #### SSG
@@ -251,7 +252,7 @@
 #### Covered by default in Vite
 
 - [@rollup/plugin-babel](https://github.com/rollup/plugins/tree/master/packages/babel) - 用 Babel 编译你的文件.
-- [@rollup/plugin-buble](https://github.com/rollup/plugins/tree/master/packages/buble) - 用buble编译ES2015.
+- [@rollup/plugin-buble](https://github.com/rollup/plugins/tree/master/packages/buble) - 用 buble 编译 ES2015.
 - [@rollup/plugin-data-uri](https://github.com/rollup/plugins/tree/master/packages/data-uri) - 从数据 URI 导入模块.
 - [@rollup/plugin-html](https://github.com/rollup/plugins/tree/master/packages/html) - 创建 HTML 文件以提供 Rollup 包.
 - [@rollup/plugin-node-resolve](https://github.com/rollup/plugins/tree/master/packages/node-resolve) -在 node_modules 中定位并捆绑第三方依赖.
@@ -291,7 +292,7 @@
 ### Libraries
 
 - [vite-ssr](https://github.com/frandiox/vite-ssr) - 具有类似 SPA 的开发人员体验的简化服务器端渲染. ![react] ![vue3]
-- [vite-plugin-ssr](https://github.com/brillout/vite-plugin-ssr) - Vite SSR 插件。 简单，成熟，做一件事，做好  ![react] ![vue3] ![vue2] ![svelte]
+- [vite-plugin-ssr](https://github.com/brillout/vite-plugin-ssr) - Vite SSR 插件。 简单，成熟，做一件事，做好 ![react] ![vue3] ![vue2] ![svelte]
 
 ### 架构
 
@@ -320,7 +321,7 @@
 ### Vue CLI
 
 - [vue-cli-plugin-vite](https://github.com/IndexXuan/vue-cli-plugin-vite) - 在 Vue CLI 上使用 Vite，最大限度地减少代码库修改.
-- [wp2vite](https://github.com/tnfe/wp2vite) - 一个前端项目自动转换工具，让你的Webpack项目支持Vite.
+- [wp2vite](https://github.com/tnfe/wp2vite) - 一个前端项目自动转换工具，让你的 Webpack 项目支持 Vite.
 
 ## 哪些项目使用了 Vite.js
 
